@@ -12,20 +12,20 @@ github_repo: "https://github.com/light0199/light0199.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "We are performers"
-sidebar-avatar: /img/awang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/light.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     awang
-# zhihu_username:     awang
+# weibo_username:     light
+# zhihu_username:     light
 github_username: light0199
 #cnblog_username: moonLightcy
-# facebook_username:  awang.chen.7
+# facebook_username:  light.chen.7
 #jianshu_username:   3157ee90cf75
 #juejin_username: 5dd4ecb6f265da47c94fbbd2
-#twitter_username:   awang
+#twitter_username:   light
 
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: awang
+# disqus_username: light
 
 # Gitalk
 gitalk:

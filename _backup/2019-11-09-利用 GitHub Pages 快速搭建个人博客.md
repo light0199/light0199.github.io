@@ -30,7 +30,7 @@ tags:
 
 > 2、fork我的仓库到你的git里面
 
-进入[我的仓库](https://github.com/awang0608/light0199.github.io){:target="_blank"}将仓库fork到你的git上：点击右上角的fork按钮，等一会儿页面自动刷新。
+进入[我的仓库](https://github.com/light0199/light0199.github.io){:target="_blank"}将仓库fork到你的git上：点击右上角的fork按钮，等一会儿页面自动刷新。
 
 ![image](https://light0199.github.io/img/2019-11-09/fork-from-qiubaiying.jpg)
 
@@ -50,7 +50,7 @@ tags:
 
 > 最后一步，到改了仓库名为自己的仓库名后，使用github.io地址访问一直报404
 
-教程给出的解决方案并没有解决我的问题，百思不得其解，还是百度大法好呀，要解决404的问题，需要将原仓库名light0199.github.io修改成awang0608.github.com，等个几秒钟强刷https://light0199.github.io/地址，就能看到网站正常显示。
+教程给出的解决方案并没有解决我的问题，百思不得其解，还是百度大法好呀，要解决404的问题，需要将原仓库名light0199.github.io修改成light0199.github.com，等个几秒钟强刷https://light0199.github.io/地址，就能看到网站正常显示。
 
 ![image](https://light0199.github.io/img/2019-11-09/question-404-solve.png)
 
@@ -134,7 +134,7 @@ tags:
 
 ## 友情提示
 
-在根据教程配置Homepage URL的时候是直接填写的https://light0199.github.io/，但实际上需要填写的整个仓库的git地址：https://github.com/awang0608/light0199.github.io。
+在根据教程配置Homepage URL的时候是直接填写的https://light0199.github.io/，但实际上需要填写的整个仓库的git地址：https://github.com/light0199/light0199.github.io。
 
 ## 结语
 
